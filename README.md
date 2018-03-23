@@ -1,4 +1,4 @@
-# freephp_plugin
+# FreePHP plugin
 FreePHP is a B2evolution widget that allows you to embed custom PHP code in
 a page widget. Think FreeHTML but with PHP!
 
